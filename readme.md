@@ -48,8 +48,8 @@ Follow these steps to clone the repository and use the **Meaning** Chrome Extens
 ## 🖼️ Screenshots
 
 <p style="display: flex; align-items: center; justify-content: space-evenly;">
-  <img src="images/demo/demo1.png" alt="Screenshot 1" width="300">
-  <img src="images/demo/demo2.png" alt="Screenshot 2" width="300">
+  <img src="images/Demo/demo1.png" alt="Screenshot 1" width="300">
+  <img src="images/Demo/demo2.png" alt="Screenshot 2" width="300">
 </p>
 
 
